@@ -11,4 +11,6 @@ str=input("Enter string : ")
 if(str.isdigit()):
     print("true")
 else:
-    print("false")
+print("false")
+# size=5
+# for i in range (0,size)
