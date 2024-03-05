@@ -88,3 +88,23 @@
 # print(fruit().taste)
 
 
+listi-[3,2,5,6,0,7,9]
+
+sum=0
+
+sum1=0
+
+for elem in list1
+
+if (elem%2==0):
+    sum=sum1+elem
+    continue
+if (elem%3==0):
+
+sum1-suml+ elem
+
+print(sum,end="")
+
+print(sum1)
+
+# print(int(4.9))
